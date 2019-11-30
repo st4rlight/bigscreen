@@ -15,7 +15,7 @@
 地图: `高德地图`
 
 # 效果
-![效果](https://github.com/st4rlight/bigscreen/public/result.png)
+![效果](https://github.com/st4rlight/bigscreen/blob/master/public/result.png)
 
 # 运行
 ```
